@@ -1,6 +1,6 @@
 # msdt
 
-[![msdt](blue.png)](https://github.com/keeptech/msdt)
+[![msdt](blue.png)](https://icncomputer.com/msdt/)
 
 
 An original msdt.exe file belongs to the Windows Operating System. This exe file is a Diagnostics Troubleshooting Wizard. It is a safe and legitimate EXE file, initially released for Windows Vista on 11/08/2006. Microsoft published version upgrades for up to Windows 10.
